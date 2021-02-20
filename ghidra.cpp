@@ -14,7 +14,7 @@ int main()
 {
   {
     Stealth();
-      const char* batch_path = "C:\\Users\\HellIsAbove\\ghidra_9.2.2_PUBLIC\\ghidraRun.bat";
+      const char* batch_path = "Your desired path of ghidra folder\\ghidra_9.2.2_PUBLIC\\ghidraRun.bat";
       system( batch_path );
   }
 }
